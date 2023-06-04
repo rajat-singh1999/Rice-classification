@@ -1,3 +1,5 @@
-.ipynb
-.h5
+.ipynb_checkpoints
+vgg_model.h5
+alexnet_model.h5
+resnet_model.h5
 /archive
